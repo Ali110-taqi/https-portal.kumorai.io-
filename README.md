@@ -1,1 +1,1 @@
-# https-portal.kumorai.io-
+# sales-portal.kumorai.io-
